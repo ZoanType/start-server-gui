@@ -26,8 +26,8 @@ A lightweight Python Tkinter app to start and manage Node.js servers from a loca
 Clone the repository and run the app:
 
 ```
-git clone https://github.com/your-username/StartServer.git
-cd StartServer
+git clone https://github.com/ZoanType/start-server-gui.git
+cd start-server-gui
 python app.py
 ```
 
